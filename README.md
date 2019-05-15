@@ -1,2 +1,2 @@
 # MachineLearningDemo
-machine learning demo by tensorflow or sklearn
+machine learning demo by tensorflow
